@@ -6,9 +6,7 @@ This project aims to create a Spotify-like music streaming service. It will feat
 
 ## Team Members
 
-`Talha Ali (22i-1971)`
-
-`Shahzer Nadeem (22i-2043)`
+Shahzer Nadeem
 
 ## Dependencies
 
